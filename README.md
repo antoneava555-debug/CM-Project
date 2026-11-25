@@ -6,3 +6,5 @@ Rescorla-Wagner
 ![Presentation GIF](rescorla_wagner_renewal_animation.gif)
 # Renewal to Signal Value Article
 [View Article](research-article.pdf)
+#presentation video
+[presentation youtube link](https://youtu.be/LSiJQCQ5H_Q)
